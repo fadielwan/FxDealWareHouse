@@ -1,0 +1,12 @@
+com\fadi\insightwarehouse\rest\ApplicationRunner.class
+com\fadi\insightwarehouse\rest\entity\FXDeal.class
+com\fadi\insightwarehouse\rest\repo\FxDealRepo.class
+com\fadi\insightwarehouse\rest\common\exceptions\DuplicateRequestException.class
+com\fadi\insightwarehouse\rest\common\exceptions\GlobalExceptionHandler.class
+com\fadi\insightwarehouse\rest\service\FxDealService.class
+com\fadi\insightwarehouse\rest\common\utils\Topic.class
+com\fadi\insightwarehouse\rest\common\messages\CustomMessage.class
+com\fadi\insightwarehouse\rest\dto\FxDealDTO.class
+com\fadi\insightwarehouse\rest\controller\FxDealController.class
+com\fadi\insightwarehouse\rest\common\messages\Response.class
+com\fadi\insightwarehouse\rest\dto\FxDealDTO$FxDealDTOBuilder.class
