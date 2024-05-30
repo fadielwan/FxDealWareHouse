@@ -1,4 +1,9 @@
 package com.fadi.insightwarehouse.rest.controller;
+/**
+ * ${typecomment}
+ * 
+ * @author Your Name
+ */
 import java.util.logging.Logger;
 
 import javax.validation.Valid;
