@@ -18,6 +18,8 @@ import com.fadi.insightwarehouse.rest.service.FxDealService;
 @Validated
 @RestController
 @RequestMapping("/api/fx-deal")
+
+
 public class FxDealController {
 
 	@Autowired
